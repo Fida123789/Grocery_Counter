@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20579314957",
+    "project_id": "grocery-counter",
+    "storage_bucket": "grocery-counter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20579314957:android:4132302237f01082c35444",
+        "android_client_info": {
+          "package_name": "co.appbrewery.micard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20579314957-ccs932duu2or9v3se8komv5vlt7psl08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRQLg0xpn9Uq_U67LT-B5dCrsM_k-2hoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20579314957-ccs932duu2or9v3se8komv5vlt7psl08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
